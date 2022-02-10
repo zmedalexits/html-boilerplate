@@ -37,4 +37,4 @@ Inainte de a da `push`, se va da un `git pull` pentru a sincroniza ce e local cu
 Se poate rula `git push` care va contine modificarile locale si cele de pe github
 
 
-Astazi am stat si am desenat!
+Astazi m-am jucat cu pisica.
